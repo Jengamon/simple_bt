@@ -1,0 +1,10 @@
+[package]
+name = "simple_bt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+assert2 = "0.3.15"
+glam = "0.29.0"
